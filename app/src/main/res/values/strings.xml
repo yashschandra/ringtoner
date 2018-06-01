@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ringtoner</string>
+    <string name="positive_dialog_option">Yes</string>
+    <string name="negative_dialog_option">No</string>
+</resources>
