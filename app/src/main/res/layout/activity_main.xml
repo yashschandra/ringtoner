@@ -15,6 +15,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="ADD"/>
+        //Try using "android.support.v7.widget.appcompatbutton" for better looking buttons i.e for providing some extra effects
 
         <ListView
             android:id="@+id/ringtonesList"
